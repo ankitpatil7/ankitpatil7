@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Ankit+this+Side;Have+a+Great+Day)
+
+
 # 💫 Hey Ankit this side!
 <br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
 
