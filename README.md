@@ -1,7 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Ankit+this+Side!;Have+a+Great+Day...;Thank+you!)
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<div align="center">
+  <h1>Hey there! I'm  Λ N K I T  this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
+ 
+</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since +v!;Im+currently+learning+Neural+&+Deep+Learning;Have+a+Great+Day...;Thank+you!)
 
 
-# 💫 Hey Ankit this side!
 <br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
 
 
@@ -25,4 +30,35 @@
 [![](https://visitcount.itsvg.in/api?id=ankitpatil7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsdb&label=Profile%20views&color=0e75b6&style=flat" alt="gsdb" /> </p>
+
+
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitpatil7&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <h2>🐍 Snake eating my contributions</h2>
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/ankitpatil7/ankitpatil7/blob/output/github-snake-dark.svg)
+
+</div>
+
+<!-- <div align="center">
+  <h2>📄 Latest Blog Posts</h2>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ankitpatil7?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
