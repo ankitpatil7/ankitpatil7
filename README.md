@@ -1,11 +1,13 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=250"/> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient_red&height=120&section=header&width=250"/> 
   <h1>Hey there! I'm  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%">
 Λ N K I T  this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
  
  
 </div>
+
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since +v!;Im+currently+learning+Neural+&+Deep+Learning;Have+a+Great+Day...;Thank+you!)
 
