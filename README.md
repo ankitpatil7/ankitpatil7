@@ -1,6 +1,9 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <div align="center">
-  <h1>Hey there! I'm  Λ N K I T  this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&width=250"/> 
+  <h1>Hey there! I'm  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%">
+Λ N K I T  this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
+ 
  
 </div>
 
@@ -22,6 +25,22 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankitpatil7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+<!--   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" 365 Days Badge Annual_Badge_2024  <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="210" height="210" /></a>
+   <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/Knight.gif" width="250" height="250" /></a>
+    <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="210" height="210" /></a> /></a> -->
+ <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkxxOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="jyot" height="200" width="200" /></a>
+ 
+<!--   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200"<a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> /></a> -->
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnkitOnTop?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -62,3 +81,4 @@
   <img src="https://img.shields.io/github/followers/ankitpatil7?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
