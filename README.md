@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ΛNKIT!&height=100&section=header"/>
 </p>
 
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Arbaz86&label=Profile%20views&color=ce9927&style=flat" alt="Arbaz86" />
+</p>
 
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
@@ -122,7 +124,7 @@
     <!-- Riga 2: Gitanimals Farm Mode su tutta la larghezza -->
     <td colspan="2" align="center">
       <a href="https://github.com/git-goods/gitanimals">
-        <img src="https://render.gitanimals.org/farms/lucaboca82"
+        <img src="https://render.gitanimals.org/farms/ANKIT"
              width="80%" alt="Gitanimals Farm Mode" />
       </a>
     </td>
