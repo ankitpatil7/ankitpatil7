@@ -15,7 +15,7 @@
  
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since+v!;Im+currently+learning+Neural+&+Deep+Learning;Have+a+Great+Day...;Thank+you!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
 
 
 <br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
@@ -145,6 +145,7 @@
   <img src="https://komarev.com/ghpvc/?username=ankitpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ankitpatil7?label=Followers&style=social" alt="GitHub followers" />
 </div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <p align="center">
