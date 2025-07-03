@@ -1,3 +1,8 @@
+
+<div align="center">
+<img src = "https://raw.githubusercontent.com/MrAnkitAgarwal/MrAnkitAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=ΛNKIT!&height=100&section=header"/>
 </p>
@@ -24,7 +29,7 @@
 <a href="www.ankitgpatil.wordpress.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/its-ankit-patil/"> 
+<a href="https://www.linkedin.com/in/its-ankit-patil/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.instagram.com/ankit_offx/">
@@ -80,9 +85,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankitpatil7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsdb&label=Profile%20views&color=0e75b6&style=flat" alt="gsdb" /> </p>
 
 
 <div align="center">
@@ -132,20 +134,19 @@
 </table>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lucaboca82&label=Profile%20views&color=ce9927&style=flat" alt="lucaboca82" />
+    
 </p>
-<!-- <div align="center">
-  <h2>📄 Latest Blog Posts</h2>
-</div>https://www.linkedin.com/feed/https://www.linkedin.com/in//
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitpatil7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arbaz86&label=Profile%20views&color=ce9927&style=flat" alt="Arbaz86" />
   <img src="https://img.shields.io/github/followers/ankitpatil7?label=Followers&style=social" alt="GitHub followers" />
 </div>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
+
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <p align="center">
