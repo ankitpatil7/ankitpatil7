@@ -1,6 +1,6 @@
-
+<!--   <a 
 <div align="center">
-<img src = "https://raw.githubusercontent.com/MrAnkitAgarwal/MrAnkitAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
+<img src = "https://raw.githubusercontent.com/MrAnkitAgarwal/MrAnkitAgarwal/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"</a> -->
 
 
 <p align="center">
@@ -20,23 +20,24 @@
  
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;OPEN+SOURCE+CONTRIBUTOR!;I+am+Creating+Bugs+Since+2019!+(8thSTD);NOW+I+AM+FIRST+YEAR+STUDENT;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
 
 
-<br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
+
 
 <p align="center">
-<a href="www.ankitgpatil.wordpress.com">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
+
 <a href="https://www.linkedin.com/in/its-ankit-patil/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://www.instagram.com/ankit_offx/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
+<a href="www.ankitgpatil.wordpress.com">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
 
-
+<br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
 
 # 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
