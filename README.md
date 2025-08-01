@@ -66,6 +66,22 @@
   </div> 
 
 
+<p align="center">
+  <img height="170" width="160" src="left.webp" />
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/user=ankitpatil7&theme=highcontrast&hide_border=true&stroke=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700" 
+    style="filter: drop-shadow(0 0 3px #FFD700);"
+  />
+  <img height="170" width="160" src="right.webp" />
+</p>
+
+</div>
+<br>
+<div align="center"><a href="#"><img alt="" width="100%" src="datascience.gif"></a></div>
+<hr/>
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
 <!--   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
