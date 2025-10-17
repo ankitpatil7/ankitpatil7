@@ -26,7 +26,7 @@
 
 
 <p align="center">
-<a href="https://leetcode.com" target="_blank">
+<a href="https://leetcode.com/u/AnkitOnTop/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="40" />
   </a>
 <a href="https://www.linkedin.com/in/its-ankit-patil/">
