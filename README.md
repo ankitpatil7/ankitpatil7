@@ -48,6 +48,8 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 <br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
+Building AlgoRift! Love Robotics x code.
+5000+ Profile Visit GitHub.
 
 
 <!--# 💻 Tech Stack:
