@@ -20,7 +20,7 @@
  
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;OPEN+SOURCE+CONTRIBUTOR!;I+am+Creating+Bugs+Since+2019!+(8thSTD);NOW+I+AM+FIRST+YEAR+STUDENT;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFBBBB&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Five+Thousands+plus+Profile+Visit!;I+am+Creating+Bugs+Since+2019!+(8thSTD);I+AM+FIRST+YEAR+STUDENT!;𖹭+Robotics+X+Coding+𖹭;Building+AlgoRift!;OPEN+SOURCE+CONTRIBUTOR!;learning+Neural+and+Deep+Learning!;𖹭Have+a+Great+Day...;𖹭Thank+you𖹭)
 
 
 
@@ -45,36 +45,38 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Creating%20Bugs-%20Since2019%20-yellow)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17000+%20of%20lines%20of%20code-red)
 
 <br>Creating Bugs Since 2019...<br>🔭 I’m currently learning Neural & Deep Learning
-Building AlgoRift! Love Robotics x code.
-5000+ Profile Visit GitHub.
+| Building AlgoRift | Love Robotics x code |
+5000+ Profile Visit GitHub |
 
 
-<!--# 💻 Tech Stack:
+# 💻 Tech Stack:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
- <!-- React -->
- <!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<!-- React 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   </a>
   <!-- Bootstrap -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap" width="60" height="60"/>
- <!-- </a>
+  <!--  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">-->
+  <!--  <img src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="Bootstrap" width="60" height="60"/> -->
+ <!--</a>
   <!-- Tailwind -->
   <!--<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
   </a>
-  <!-- Git -->
- <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   Git 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   </a>
   <!-- GitHub (replaced with white background) -->
 <!--  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
-  <!-- NodeJS -->
+   NodeJS -->
 <!--  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   </a>
@@ -133,21 +135,21 @@ Building AlgoRift! Love Robotics x code.
 <hr/>
 -->
 
-<!--<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-<!--   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+<h2 align="center">Leetcode Info<h2>  
+<!--<p align="center">
+   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" 365 Days Badge Annual_Badge_2024  <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="210" height="210" /></a>
    <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/Knight.gif" width="250" height="250" /></a>
     <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/1000.gif" width="210" height="210" /></a> /></a> -->
-<!-- <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkxxOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="jyot" height="200" width="200" /></a>
+ <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkxxOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a> <a href="https://leetcode.com/AnkitOnTop/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="jyot" height="200" width="200" /></a>
  
-<!--   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200"<a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a>
-   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> /></a> -->
-<!--</p>
+  <!-- <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200"<a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="jyot" height="200" width="200" /></a> /></a> 
+</p>-->
 <p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AnkitOnTop?theme=dark&font=Nunito&ext=heatmap" />  
-</p>-->
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -226,9 +228,7 @@ Building AlgoRift! Love Robotics x code.
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F72585&size=22&center=true&vCenter=true&width=800&lines=I+am+Creating+Bugs+Since+2019!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E2D1C3&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Five+Thousands+plus+Profile+Visit;I+am+Creating+Bugs+Since+2019!+(8thSTD);I+AM+FIRST+YEAR+STUDENT;𖹭+Robotics+X+Coding+𖹭;Building+AlgoRift;OPEN+SOURCE+CONTRIBUTOR!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=THΛNK_YoU!&height=100&section=footer"/>
