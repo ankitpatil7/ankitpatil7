@@ -135,7 +135,7 @@
 <hr/>
 -->
 
-<h2 align="center">Leetcode Info<h2>  
+<h2 align="center">Leetcode💀<h2>  
 <!--<p align="center">
    <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/aryanbhargava2005/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" 365 Days Badge Annual_Badge_2024  <a><img align="centre" src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="210" height="210" /></a>
@@ -226,6 +226,9 @@
   <img src="https://badges.strrl.dev/commits/all/shubham-cyber-prog?color=teal&style=flat" alt="Total Commits" />
 </div>
 
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17000+%20of%20lines%20of%20code-red)
+![Lines of code](https://img.shields.io/badge/Creating%20Bugs-%20Since2019%20-yellow)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E2D1C3&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Five+Thousands+plus+Profile+Visit;I+am+Creating+Bugs+Since+2019!+(8thSTD);I+AM+FIRST+YEAR+STUDENT;𖹭+Robotics+X+Coding+𖹭;Building+AlgoRift;OPEN+SOURCE+CONTRIBUTOR!;learning+Neural+and+Deep+Learning;Have+a+Great+Day...;Thank+you!)
