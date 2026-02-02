@@ -18,7 +18,10 @@
 Λ N K I T <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6%"> this SiDΞ! <img src="https://media.tenor.com/Zh_jzyMKfn0AAAAi/wave-hello.gif" width="30" height="30" /></h1>
  
  
-</div>
+</div> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFBBBB&size=22&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Five+Thousands+plus+Profile+Visit!;I+am+Creating+Bugs+Since+2019!+(8thSTD);I+AM+FIRST+YEAR+STUDENT!;𖹭+Robotics+X+Coding+𖹭;Building+AlgoRift!;OPEN+SOURCE+CONTRIBUTOR!;learning+Neural+and+Deep+Learning!;𖹭Have+a+Great+Day...;𖹭Thank+you𖹭)
 
@@ -54,7 +57,8 @@
 5000+ Profile Visit GitHub |
 
 
-# 💻 Tech Stack:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> Tech Stack
+
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 <!-- React 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -88,7 +92,30 @@
 <!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
   </a> -->
-  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Achievements & Hackathons | Experience <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28" />
+
+| Event/Org | Organizer/Loc. | Achievement/Role | Recognition/Position    |
+|-------|-----------|-------------|---------------------|
+| **IGNITE i2i** | COEP PUNE | TOP Place (THOUSANDS+) | **FIVE FIGURE FUNDING** |
+| **HACKTOBERFEST** | GLOBAL | SUPERCONTRBUTER | OPEN SOURCE |
+| **ROTARY'23 RYLA** | ROTARY INTERNATIONAL | Winner (20,000+ teams) | ELITE SOP |
+| **ADVITYA'24** | KARNATAK HUBLI TECHFEST | 1st Place-ROBOWAR | **$109 USD** |
+| **UDAAN** | IIC-Govt INDIA | 1st-Winner  | Top 0.1% |
+| **INNOVENT** | SOBUS IIC COUNCIL | Top 10 Finalist (100+ teams) | Finalist |
+| **GMRT-TIRF** | GLOBAL | Finalist (10L+ participants) | Finalist |
+| **LEETCODE 488 WCONTEST** | GLOBAL | 1903 RANK | Top RANK |
+| **OSCI'25** | GLOBAL | CONTRBUTER | OPEN SOURCE |  
+| **OSCG'26** | GLOBAL | LEAD | OPEN SOURCE | 
+| **GSSoC'25** | NATIONAL | CONTRIBUTER | OPEN SOURCE |  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ankitpatil7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankitpatil7&theme=dark&hide_border=false)<br/>
